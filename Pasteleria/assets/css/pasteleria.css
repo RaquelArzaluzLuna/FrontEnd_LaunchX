@@ -1,11 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Fuzzy+Bubbles&family=Merienda:wght@700&display=swap');
 
 body{
-    background: url(file:///C:/Users/reich/OneDrive/Desktop/CV-web/assets/img/background_img.png) no-repeat center center fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
+    background-color: #9a65bd;
 }
 
 .header{
